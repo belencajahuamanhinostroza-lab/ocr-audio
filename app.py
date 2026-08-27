@@ -209,17 +209,13 @@ st.markdown(
     """
     <div class="card">
 
-        <div class="library-label">
-            LECTURA · TRADUCCIÓN · PRONUNCIACIÓN
-        </div>
+        LECTURA · TRADUCCIÓN · PRONUNCIACIÓN
 
-        <h2>Explora tus libros en cualquier idioma</h2>
+        Explora tus libros en cualquier idioma
 
-        <p class="description">
-            Escanea una página de un libro o carga una imagen.
-            La aplicación reconocerá el texto, lo traducirá al
-            idioma seleccionado y te permitirá escucharlo.
-        </p>
+        Escanea una página de un libro o carga una imagen.
+        La aplicación reconocerá el texto, lo traducirá al
+        idioma seleccionado y te permitirá escucharlo.
 
     </div>
     """,
